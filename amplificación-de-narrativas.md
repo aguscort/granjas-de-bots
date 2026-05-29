@@ -14,7 +14,7 @@ La integración de modelos de lenguaje (LLM) ha hecho la amplificación más des
 *   **Velocidad de Distribución:** La IA permite redactar mensajes personalizados para diferentes audiencias y distribuirlos a **velocidad de la luz**, saturando el entorno informativo antes de que la información real pueda verificarse.
 ### 3. Estrategias Psicológicas y Políticas
 La amplificación de narrativas no es solo técnica, sino que utiliza principios de **guerra psicológica**:
-*   **La Espiral del Silencio:** Al inundar las redes con una opinión mayoritaria (aunque sea falsa), los usuarios reales que piensan distinto tienden a callarse por miedo al aislamiento o al "destierro" digital [10, 18]. De 8 personas que opinan en contra de alguien, 7 pueden ser bots diseñados para silenciar a la persona real.
+*   **La Espiral del Silencio:** Al inundar las redes con una opinión mayoritaria (aunque sea falsa), los usuarios reales que piensan distinto tienden a callarse por miedo al aislamiento o al "destierro" digital. De 8 personas que opinan en contra de alguien, 7 pueden ser bots diseñados para silenciar a la persona real.
 *   **Estrategia de las Tres Fronteras:**
     1.  **Blindaje:** Proteger las cuentas de un candidato con comentarios positivos de bots.
     2.  **Defensa:** Responder a publicaciones de terceros para contrarrestar críticas externas.
