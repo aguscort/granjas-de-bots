@@ -47,6 +47,5 @@ la aparición de los LLM (como Llama 3 o modelos basados en OpenAI) eliminó las
 ### 5. Objetivos y Consecuencias Globales
 *   **Ataque a la Verdad Objetiva:** El fin último no es solo ocultar la verdad, sino **atacar la definición de la verdad misma**, creando una "niebla informativa" donde el ciudadano, agotado, simplemente elige su propia realidad ideal.
 *   **Manipulación de Algoritmos:** Al generar interacciones masivas iniciales, los bots engañan a los algoritmos de plataformas como TikTok, X o Facebook para que promuevan orgánicamente contenido desinformativo como si fuera tendencia.
-*   **Desgaste Democrático:** Se han documentado campañas de amplificación en Rusia (IRA) para influir en las elecciones de EE. UU., en Brasil con el "Gabinete del Odio" de Bolsonaro, y en China para inflar el éxito de celebridades y métricas de mercado.
 
 En conclusión, la amplificación de narrativas ha convertido las métricas de interacción en redes sociales en **indicadores carentes de significado real**, donde solo una pequeña fracción de lo que se percibe como opinión popular proviene de seres humanos auténticos.
