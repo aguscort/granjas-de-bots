@@ -1,8 +1,4 @@
-# Automatización móvil
-
----
-
-# De ADB a Appium para testing y tareas lícitas
+# Automatización industrial: de ADB a Appium
 
 ## 1. El porqué de la automatización controlada
 
