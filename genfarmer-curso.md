@@ -6,7 +6,7 @@
 
 
 
-### Módulo 1: Visión General del Ecosistema Gen y sus Componentes
+### [Módulo 1: Visión General del Ecosistema Gen y sus Componentes](modulo-1.md)
 
 **Objetivo:** Comprender la arquitectura global, los flujos de datos entre los componentes y el modelo de negocio que sostiene el ecosistema.
 
@@ -32,7 +32,7 @@
 
 
 
-### Módulo 2: Análisis Forense del Agente de Dispositivo (APK de GenFarmer)
+### [Módulo 2: Análisis Forense del Agente de Dispositivo (APK de GenFarmer)](modulo-2.md)
 
 **Objetivo:** Aprender a extraer, descompilar y analizar el comportamiento del agente de automatización que se instala en cada teléfono, identificando sus capacidades y sus indicadores de compromiso.
 
@@ -59,7 +59,7 @@
 
 
 
-### Módulo 3: Protocolos de Control y Automatización
+### [Módulo 3: Protocolos de Control y Automatización](modulo-3.md)
 
 **Objetivo:** Diseccionar los mecanismos que utiliza GenFarmer para enviar comandos desde el panel a los dispositivos y ejecutarlos, evaluando su detectabilidad.
 
@@ -80,8 +80,7 @@
 
 
 
-### Módulo 4: Gestión de Identidad y Red
-
+### [Módulo 4: Gestión de Identidad y Red](modulo-4.md)
 **Objetivo:** Desvelar cómo el ecosistema Gen construye y mantiene identidades digitales falsas creíbles, y cómo se enmascara la red para evadir bloqueos.
 
 1. **GenLogin y la creación de perfiles de navegador**
@@ -102,7 +101,7 @@
 
 
 
-### Módulo 5: Flujos de Trabajo Típicos y su Detección
+### [Módulo 5: Flujos de Trabajo Típicos y su Detección](modulo-5.md)
 
 **Objetivo:** Reconstruir las campañas de automatización más comunes (fraude publicitario, manipulación de redes sociales, farming de cuentas) a partir de los datos forenses recogidos.
 
@@ -121,7 +120,7 @@
 
 
 
-### Módulo 6: Estrategias de Defensa y Puntos de Ruptura
+### [Módulo 6: Estrategias de Defensa y Puntos de Ruptura](modulo-6.md)
 
 **Objetivo:** Diseñar un plan de defensa multicapa basado en los hallazgos de los módulos anteriores.
 
