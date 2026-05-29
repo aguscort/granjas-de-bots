@@ -1,15 +1,32 @@
 ```
-   ____ ____ ____ _  _ ____ ____ ____    ___  ____    ___  ____ ___ ____
-   | __ |__/ |__| |\ | | __ |__| [__     |  \ |___    |__] |  |  |  [__
-   |__] |  \ |  | | \| |__] |  | ___]    |__/ |___    |__] |__|  |  ___]
-
-        ┌─[ BOX PHONE FARM · GenFarmer · OSMBB · Dolphin ]──────────┐
-        │  ▢ ▢ ▢ ▢ ▢ ▢ ▢ ▢ ▢ ▢      ░░░  PSU 5V/40A-60A            │
-        │  ▢ ▢ ▢ ▢ ▢ ▢ ▢ ▢ ▢ ▢      ▣▣▣  USB HUB ×20               │
-        │  ▢ ▢ ▢ ▢ ▢ ▢ ▢ ▢ ▢ ▢      ≋≋≋  COOLING 24/7              │
-        │  ▢ ▢ ▢ ▢ ▢ ▢ ▢ ▢ ▢ ▢      ⌁⌁⌁  PROXY / SIM / LLM         │
-        └───────────────────────────────────────────────────────────┘
-         "1 de cada 80 interacciones podría ser de una persona real"
+  ▄████  ██▀███   ▄▄▄       ███▄    █  ▄▄▄██▀▀▀ ▄▄▄        ██████
+ ██▒ ▀█▒▓██ ▒ ██▒▒████▄     ██ ▀█   █    ▒██   ▒████▄    ▒██    ▒
+▒██░▄▄▄░▓██ ░▄█ ▒▒██  ▀█▄  ▓██  ▀█ ██▒   ░██   ▒██  ▀█▄  ░ ▓██▄
+░▓█  ██▓▒██▀▀█▄  ░██▄▄▄▄██ ▓██▒  ▐▌██▒▓██▄██▓  ░██▄▄▄▄██   ▒   ██▒
+░▒▓███▀▒░██▓ ▒██▒ ▓█   ▓██▒▒██░   ▓██░ ▓███▒    ▓█   ▓██▒▒██████▒▒
+ ░▒   ▒ ░ ▒▓ ░▒▓░ ▒▒   ▓▒█░░ ▒░   ▒ ▒  ▒▓▒▒░    ▒▒   ▓▒█░▒ ▒▓▒ ▒ ░
+              ██████  ▓█████     ▄▄▄▄    ▒█████  ▄▄▄█████▓  ██████
+            ▒██    ▒  ▓█   ▀    ▓█████▄ ▒██▒  ██▒▓  ██▒ ▓▒▒██    ▒
+            ░ ▓██▄    ▒███      ▒██▒ ▄██▒██░  ██▒▒ ▓██░ ▒░░ ▓██▄
+              ▒   ██▒ ▒▓█  ▄    ▒██░█▀  ▒██   ██░░ ▓██▓ ░   ▒   ██▒
+            ▒██████▒▒ ░▒████▒   ░▓█  ▀█▓░ ████▓▒░  ▒██▒ ░ ▒██████▒▒
+            ▒ ▒▓▒ ▒ ░ ░░ ▒░ ░   ░▒▓███▀▒░ ▒░▒░▒░   ▒ ░░   ▒ ▒▓▒ ▒ ░
+```
+```
+        ╔═══════════════════════════════════════════════════════════╗
+        ║   B O X   P H O N E   F A R M   ·   v.GenFarmer            ║
+        ╠═══════════════════════════════════════════════════════════╣
+        ║  ┌────┬────┬────┬────┬────┬────┬────┬────┬────┬────┐       ║
+        ║  │ ▢  │ ▢  │ ▢  │ ▢  │ ▢  │ ▢  │ ▢  │ ▢  │ ▢  │ ▢  │ ░ PSU ║
+        ║  ├────┼────┼────┼────┼────┼────┼────┼────┼────┼────┤ 5V40A ║
+        ║  │ ▢  │ ▢  │ ▢  │ ▢  │ ▢  │ ▢  │ ▢  │ ▢  │ ▢  │ ▢  │ ▣ USB ║
+        ║  ├────┼────┼────┼────┼────┼────┼────┼────┼────┼────┤ ×20   ║
+        ║  │ ▢  │ ▢  │ ▢  │ ▢  │ ▢  │ ▢  │ ▢  │ ▢  │ ▢  │ ▢  │ ≋ FAN ║
+        ║  ├────┼────┼────┼────┼────┼────┼────┼────┼────┼────┤ 24/7  ║
+        ║  │ ▢  │ ▢  │ ▢  │ ▢  │ ▢  │ ▢  │ ▢  │ ▢  │ ▢  │ ▢  │ ⌁ SIM ║
+        ║  └────┴────┴────┴────┴────┴────┴────┴────┴────┴────┘       ║
+        ╚═══════════════════════════════════════════════════════════╝
+       "1 de cada 80 interacciones podría ser de una persona real."
 ```
 
 # granjas-de-bots
@@ -19,10 +36,21 @@ particular, las *box phone farms*: su arquitectura física, su gestión lógica
 (GenFarmer, OSMBB, Dolphin), sus usos, su papel en la amplificación de narrativas
 y un curso de análisis forense para detectarlas y neutralizarlas.
 
+Este archivo funciona como índice del repositorio.
 
----
+```
+   ┌──────────┐   ┌────────────┐   ┌───────────┐   ┌──────────────────┐
+   │ GenLogin │──▶│ GenFarmer  │──▶│ GenRouter │──▶│  X · IG · FB · TT │
+   │ identidad│   │ flota +LLM │   │  proxies  │   │   (plataformas)   │
+   └──────────┘   └────────────┘   └───────────┘   └──────────────────┘
+      huella         dispositivo        IP              objetivo
+```
 
-## 1. El fenómeno: concepto, usos y dimensión política
+```
+═══════════════════════════════════════════════════════════════════════
+   §1 · EL FENÓMENO  ░ concepto · usos · dimensión política
+═══════════════════════════════════════════════════════════════════════
+```
 
 | Archivo | Contenido |
 | --- | --- |
@@ -32,7 +60,11 @@ y un curso de análisis forense para detectarlas y neutralizarlas.
 | [amplificación-de-narrativas.md](amplificaci%C3%B3n-de-narrativas.md) | La amplificación de narrativas como táctica de manipulación: espiral del silencio, asociación repetitiva y el salto de calidad que introdujeron los LLM. |
 | [consensus-reality.md](consensus-reality.md) | La "realidad de consenso" o posverdad: la tesis Surkov, la elección de "realidades ideales" y el objetivo de parálisis cívica mediante el agotamiento informativo. |
 
-## 2. Infraestructura y técnica
+```
+═══════════════════════════════════════════════════════════════════════
+   §2 · INFRAESTRUCTURA Y TÉCNICA  ▣ hardware · red · software
+═══════════════════════════════════════════════════════════════════════
+```
 
 | Archivo | Contenido |
 | --- | --- |
@@ -43,7 +75,15 @@ y un curso de análisis forense para detectarlas y neutralizarlas.
 | [automatizacion.md](automatizacion.md) | Automatización móvil legítima: de ADB a Appium, con ejemplos de código, escalado a flotas y la línea que separa el QA ético del fraude. |
 | [gestion-logica.md](gestion-logica.md) | Disección técnica de los tres pilares de la automatización moderna: GenFarmer (flotas), OSMBB (inyección sobre emuladores) y Dolphin (LLM sin restricciones). |
 
-## 3. Curso de Análisis Técnico Forense del Ecosistema GenFarmer
+```
+═══════════════════════════════════════════════════════════════════════
+   §3 · CURSO FORENSE  ⌬ GenFarmer · 6 módulos · 24 h
+═══════════════════════════════════════════════════════════════════════
+
+   [M1]──[M2]──[M3]──[M4]──[M5]──[M6]──▶ [ certificación ]
+    │     │     │     │     │     │
+  visión APK  control id+red flujos defensa
+```
 
 | Archivo | Contenido |
 | --- | --- |
@@ -57,9 +97,13 @@ y un curso de análisis forense para detectarlas y neutralizarlas.
 | [material-complementario.md](material-complementario.md) | Tarea final de certificación, soluciones razonadas de los ejercicios y examen tipo test de 20 preguntas con su clave. |
 
 
-        ┌──────────────────────────────────────────────────────────┐
-        │  Material con fines de investigación, análisis forense y  │
-        │  divulgación. La automatización sobre dispositivos ajenos │
-        │  o cuentas de terceros vulnera los términos de servicio   │
-        │  y, según la jurisdicción, la ley.                        │
-        └──────────────────────────────────────────────────────────┘
+        ╔═══════════════════════════════════════════════════════════╗
+        ║  ⚠  Material con fines de investigación, análisis forense  ║
+        ║     y divulgación. La automatización sobre dispositivos    ║
+        ║     ajenos o cuentas de terceros vulnera los términos de   ║
+        ║     servicio y, según la jurisdicción, la ley.             ║
+        ╚═══════════════════════════════════════════════════════════╝
+
+              .─────────────────────────────────────────────.
+             (   aguscort/granjas-de-bots · MIT · 2026        )
+              `─────────────────────────────────────────────'
