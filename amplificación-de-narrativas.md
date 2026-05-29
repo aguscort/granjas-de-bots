@@ -1,6 +1,6 @@
 La **amplificación de narrativas** es una táctica sistemática de manipulación digital donde redes extensas de cuentas automatizadas (bots) y humanas se coordinan para inflar de manera artificial la visibilidad, relevancia y legitimidad de ideas, figuras políticas o productos específicos. Este fenómeno busca **transformar voces pequeñas en mayorías ruidosas**, alterando la percepción de la realidad de los usuarios legítimos.
 
-Se trata del concepto politico mas importante de nuestra epoca y uno profundamente extrano, malinterpretado e ignorado.
+Se trata del concepto politico mas importante de nuestra epoca y uno profundamente extraño, malinterpretado e ignorado.
 
 A continuación, se presenta un estudio detallado de sus componentes, estrategias y efectos:
 
