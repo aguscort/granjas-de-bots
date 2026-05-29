@@ -1,5 +1,5 @@
 
-# Curso de Análisis Técnico Forense del Ecosistema GenFarmer
+# Curso del Ecosistema GenFarmer
 
 **Duración estimada:** 24 horas lectivas (6 módulos de 4 horas)  
 **Prerrequisitos:** Conocimientos de seguridad en Android, ADB, redes TCP/IP, análisis de APK, y fundamentos de proxies y servicios de accesibilidad.
