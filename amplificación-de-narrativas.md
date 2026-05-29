@@ -36,20 +36,13 @@ En sus primeras etapas, la amplificación de narrativas dependía de la fuerza d
 *   **Scripts Rígidos:** Los bots utilizaban respuestas predefinidas que los sistemas de seguridad podían identificar fácilmente mediante la detección de patrones repetitivo.
 
 #### 4.2. Después de los LLM: Automatización Inteligente y "Agentic AI".
- aparición de los LLM (como Llama 3 o modelos basados en OpenAI) eliminó las barreras técnicas y permitió una manipulación más profunda:
+la aparición de los LLM (como Llama 3 o modelos basados en OpenAI) eliminó las barreras técnicas y permitió una manipulación más profunda:
 
 *   **Contenido Dinámico y Contextual:** La IA ahora permite generar comentarios, debates y conversaciones que se adaptan al contexto de la publicación original, eliminando los patrones fijos que delataban a los bots antiguos
 *   **Saturación a "Velocidad de la Luz":** Los países y actores maliciosos pueden redactar un mensaje, adaptarlo para diferentes audiencias y distribuirlo instantáneamente, contaminando el entorno informativo antes de que la verdad pueda verificarse
 *   **Bots Agentes (Agentic Bots):** Esta nueva clase de bots utiliza LLMs para razonar sobre el flujo de una conversación. Pueden leer una página, entender formularios complejos y ajustar su estrategia si encuentran una defensa o un estado inesperado
 *   **Comercialización del Fraude:** La IA ha "comoditizado" los bots, permitiendo que usuarios no técnicos escriban scripts básicos de automatización, lo que ha provocado un aumento masivo en el tráfico de "bots simples".
 *   **Modelos Locales (Llama 3 y Dolphin):** Para evitar las restricciones éticas de las IAs comerciales, los operadores usan modelos como **Dolphin (Mistral fine-tuned)** o **Llama 3 70B** que corren localmente en sus propias GPUs. Esto les permite generar miles de respuestas sin censura y sin dejar rastro en servidores de terceros.
-
-#### 4.3. Impacto en la Percepción de la Realidad.
-La evolución tecnológica ha llevado la amplificación de narrativas a un nivel psicológico:
-
-*   **La Espiral del Silencio:** Al inundar las redes con opiniones falsas, los bots hacen que las personas reales con opiniones distintas se queden calladas por miedo al aislamiento. En una discusión donde 8 personas opinan diferente a ti, es probable que 7 sean bots amplificando un mensaje antagónico.
-*   **Estrategia de las Tres Fronteras:** Las campañas modernas se dividen en **Blindaje** (proteger la cuenta propia con comentarios positivos), **Defensa** (responder a críticas en posts de terceros) y **Ataque** (enviar oleadas de odio a los rivales.
-*   **La Era de la Posverdad:** El objetivo ya no es ocultar la verdad, sino **atacar la definición de la verdad misma** mediante una "niebla informativa" que agota al ciudadano y lo obliga a elegir su propia realidad ideal.
 
 ### 5. Objetivos y Consecuencias Globales
 *   **Ataque a la Verdad Objetiva:** El fin último no es solo ocultar la verdad, sino **atacar la definición de la verdad misma**, creando una "niebla informativa" donde el ciudadano, agotado, simplemente elige su propia realidad ideal.
